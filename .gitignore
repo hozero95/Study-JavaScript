@@ -1,11 +1,16 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+
+# custom
+.idea
+
+## ignore.io
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,intellij
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,intellij
