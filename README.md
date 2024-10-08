@@ -1,4 +1,4 @@
-# 프로젝트 이름
+# Study-JavaScript
 
 이 프로젝트는 Next.js를 파헤쳐보기 전에 느슨해진 나의 정신줄을 붙잡기 위해 신입의 마음가짐으로 기초 JavaScript 문법부터 돌이켜보자라는 뜻에서 만들어졌습니다.</br>
 하여, Repository 이름처럼 JavaScript에 대해 공부해보겠습니다.
